@@ -12,4 +12,6 @@ The goal of the project is to determine an optimal game strategy (and to test th
 
 The coded version in this work is the simultaneous version, it uses Gurobi as a linear solver.
 
-<iframe width="852" height="480" src="https://www.youtube.com/embed/1BZs011gLbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/33313006/138164247-da56ad7a-3216-4e13-9507-abb4aad1217c.mp4
+
